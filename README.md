@@ -1,4 +1,5 @@
-piper-expengine
+piper-links plus
 ===============
 
-Pipers expressionengine code
+Pipers linksplus code for DNN
+Intended to allow for self-exploration and validation of links on a continuing basis.
